@@ -1,0 +1,2 @@
+<?php
+$menumode="sidebyside";
